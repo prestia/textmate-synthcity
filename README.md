@@ -14,7 +14,7 @@ Synth City for TextMate is a work in progress. Improvements are welcome.
 ## To Do
 
 * Improve Markdown support
-* Improve Ruby styles
+* Improve support for rhtml files
 
 ## License (MIT)
 

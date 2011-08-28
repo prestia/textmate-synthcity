@@ -1,9 +1,12 @@
 # Synth City for TextMate
 
-Credit goes to Steph Thirion's beautiful [Synth City color palette](https://github.com/phest/synthcity/).
+Credit goes to Steph Thirion for the beautiful [Synth City color palette](https://github.com/phest/synthcity/).
 
-License (MIT)
-Copyright (c) 2011 Anthony Prestia
+Synth City for TextMate is a work in progress. Improvements are welcome.
+
+## License (MIT)
+
+Copyright (c) 2011 [Anthony Prestia](http://anthonyprestia.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

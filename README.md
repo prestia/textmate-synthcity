@@ -4,6 +4,18 @@ Credit goes to Steph Thirion for the beautiful [Synth City color palette](https:
 
 Synth City for TextMate is a work in progress. Improvements are welcome.
 
+## Want to Contribute?
+
+1. Fork <code>textmate-synthcity</code>.
+2. Brush up on [TextMate theme development](http://manual.macromates.com/en/themes).
+3. Download some [sample documents from Solarized](https://github.com/altercation/solarized/tree/master/utils/tests) to test your theme.
+4. Address some of the problems below or just make any changes that you feel are worthwhile.
+
+## To Do
+
+* Improve Markdown support
+* Improve Ruby styles
+
 ## License (MIT)
 
 Copyright (c) 2011 [Anthony Prestia](http://anthonyprestia.com)

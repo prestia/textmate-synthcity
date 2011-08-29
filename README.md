@@ -13,8 +13,7 @@ Synth City for TextMate is a work in progress. Improvements are welcome.
 
 ## To Do
 
-* Improve Markdown support
-* Improve support for rhtml files
+* Beautify rhtml files
 
 ## License (MIT)
 
